@@ -10,21 +10,17 @@
 🤖 Defensor da automação de testes 🦾
 
 
-👨🏻‍💻 Habilidades:
-    ✓ Testes de Aceitação, Usabilidade, Funcionais, Exploratórios, Regressivos, de Sistemas e Integrados
-
-    ✓ Testes em Mobile Android e iOS, WEB e API
-
-    ✓ Automação de testes (Cypress | Selenium WebDriver | Robot Framework)
-
-    ✓ Mapeamento de Cenários de Teste (BDD | Cucumber | Gherkin)
-
-    ✓ Técnicas de testes (Caixa Branca | Caixa Preta | Caixa Cinza)
+👨🏻‍💻 Habilidades:<br>
+    ✓ Testes de Aceitação, Usabilidade, Funcionais, Exploratórios, Regressivos, de Sistemas e Integrados<br>
+    ✓ Testes em Mobile Android e iOS, WEB e API<br>
+    ✓ Automação de testes (Cypress | Selenium WebDriver | Robot Framework)<br>
+    ✓ Mapeamento de Cenários de Teste (BDD | Cucumber | Gherkin)<br>
+    ✓ Técnicas de testes (Caixa Branca | Caixa Preta | Caixa Cinza)<br>
 
 
-📬 Contatos:
-• E-mail: marlysonalmeida@gmail.com
-• Telefone: (85) 98624-9480
+📬 Contatos:<br>
+• E-mail: marlysonalmeida@gmail.com<br>
+• Telefone: (85) 98624-9480<br>
 • GitHub:  https://github.com/MarlysonAlmeida<br>
 
 
