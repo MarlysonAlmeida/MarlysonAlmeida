@@ -1,24 +1,31 @@
-Curso bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados.
+🐞 Sou Analista de Testes e QA trabalhando a mais de 2 anos no ramo financeiro. 🏦
 
 
-Possuo certificações em Scrum, DevOps e cursos na área de desenvolvimento de software e testes automatizados.
+🎓 Curso bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados. 
 
 
-Habilidades:
-
-  * Testes Funcionais, exploratórios, regressivos e Integrados
-
-  * Testes em Mobile, WEB e API
-
-  * Automação de testes (Cypress | Selenium Webdriver | Robot Framework)
-
-  * Especificação de Cenários de Teste (BDD | Cucumber | Gherkin)
+📚 Possuo certificações em Scrum, DevOps e cursos da área de desenvolvimento de software e testes automatizados. 
 
 
+🤖 Defensor da automação de testes 🦾
 
 
-E-mail: marlysonalmeida@gmail.com<br>
-Telefone: (85) 98624-9480<br>
+👨🏻‍💻 Habilidades:
+    ✓ Testes de Aceitação, Usabilidade, Funcionais, Exploratórios, Regressivos, de Sistemas e Integrados
+
+    ✓ Testes em Mobile Android e iOS, WEB e API
+
+    ✓ Automação de testes (Cypress | Selenium WebDriver | Robot Framework)
+
+    ✓ Mapeamento de Cenários de Teste (BDD | Cucumber | Gherkin)
+
+    ✓ Técnicas de testes (Caixa Branca | Caixa Preta | Caixa Cinza)
+
+
+📬 Contatos:
+• E-mail: marlysonalmeida@gmail.com
+• Telefone: (85) 98624-9480
+• GitHub:  https://github.com/MarlysonAlmeida<br>
 
 
 <div>
