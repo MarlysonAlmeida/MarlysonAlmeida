@@ -1,13 +1,7 @@
-Analista de Testes e QA, trabalhando a mais de 2 anos no ramo financeiro. 🏦
-
-
 🎓 Curso bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados. 
 
 
 📚 Possuo certificações em Scrum, DevOps e cursos da área de desenvolvimento de software e testes automatizados. 
-
-
-Defensor da automação de testes 🦾
 
 
 👨🏻‍💻 Habilidades:<br>
