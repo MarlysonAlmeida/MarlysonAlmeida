@@ -5,11 +5,11 @@
 
 
 👨🏻‍💻 Habilidades:<br>
-    ✓ Testes de Aceitação, Usabilidade, Funcionais, Exploratórios, Regressivos, de Sistemas e Integrados<br>
+    ✓ Testes de Aceitação, Usabilidade, Funcionais, Exploratórios, Regressivos e Integrados<br>
     ✓ Testes em Mobile Android e iOS, WEB e API<br>
-    ✓ Automação de testes (Cypress | Selenium WebDriver | Robot Framework)<br>
-    ✓ Mapeamento de Cenários de Teste (BDD | Cucumber | Gherkin)<br>
-    ✓ Técnicas de testes (Caixa Branca | Caixa Preta | Caixa Cinza)<br>
+    ✓ Automação de testes com Robot Framework e Appium<br>
+    ✓ Mapeamento de Cenários de Teste com BDD<br>
+    ✓ Técnicas de teste de Caixa Preta<br>
 
 
 📬 Contatos:<br>
@@ -25,9 +25,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="Marlyson-Rails" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg">
     <img align="center" alt="Marlyson-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-    <img align="center" alt="Marlyson-Rspec" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg">
     <img align="center" alt="Marlyson-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Marlyson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Marlyson-Golang" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
@@ -36,7 +34,6 @@
     <img align="center" alt="Marlyson-Cucumber" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
     <img align="center" alt="Marlyson-HTML" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
     <img align="center" alt="Marlyson-CSS" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-    <img align="center" alt="Marlyson-Bootstrap" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="Marlyson-PostgreSQL" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
   
