@@ -7,7 +7,7 @@
 👨🏻‍💻 Habilidades:<br>
     ✓ Testes de Aceitação, Usabilidade, Funcionais, Exploratórios, Regressivos e Integrados<br>
     ✓ Testes em Mobile Android e iOS, WEB e API<br>
-    ✓ Automação de testes com Robot Framework e Appium<br>
+    ✓ Automação de testes com Robot Framework<br>
     ✓ Mapeamento de Cenários de Teste com BDD<br>
     ✓ Técnicas de teste de Caixa Preta<br>
 
