@@ -1,36 +1,36 @@
-🎓 Curso bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados. 
+🎓 Curso bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados.<br>
 
 
-📚 Possuo certificações em Scrum, DevOps e cursos da área de desenvolvimento de software e testes automatizados. 
+📚 Possuo certificações em Scrum, DevOps e cursos da área de desenvolvimento de software e testes automatizados. <br>
 
 
-🤖 Já fui professor de informática e desenvolvedor Ruby on Rails, mas migrei para a área de testes para trabalhar com a qualidade de sistemas.
+🤖 Já fui professor de informática e desenvolvedor Ruby on Rails, mas migrei para a área de testes para trabalhar com a qualidade de sistemas.<br>
 
 
-🏦 Atualmente sou Analista de testes a mais de 2 anos com foco em instituições financeiras.
+🏦 Atualmente sou Analista de testes a mais de 2 anos com foco em instituições financeiras.<br>
 
 
 
-👨🏻‍💻 Habilidades:
-    ✓ Testes de Aceitação, Usabilidade, Funcionais, Exploratórios, Regressivos e Integrados
+👨🏻‍💻 Habilidades:<br>
+    ✓ Testes de Aceitação, Usabilidade, Funcionais, Exploratórios, Regressivos e Integrados<br>
 
 
-    ✓ Testes em Mobile Android e iOS, WEB e API
+   ✓ Testes em Mobile Android e iOS, WEB e API<br>
 
 
-    ✓ Automação de testes com Robot Framework e Cypress
+   ✓ Automação de testes com Robot Framework e Cypress<br>
 
 
-    ✓ Mapeamento de Cenários de Teste com BDD
+   ✓ Mapeamento de Cenários de Teste com BDD<br>
 
 
-    ✓ Técnicas de teste de Caixa Preta
+   ✓ Técnicas de teste de Caixa Preta<br>
 
 
-📬 Contatos:
-• E-mail: marlysonalmeida@gmail.com
-• Telefone: (85) 98624-9480
-• GitHub:  https://github.com/MarlysonAlmeida
+📬 Contatos:<br>
+• E-mail: marlysonalmeida@gmail.com<br>
+• Telefone: (85) 98624-9480<br>
+• GitHub:  https://github.com/MarlysonAlmeida<br>
 
 
 <div>
