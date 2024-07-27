@@ -4,35 +4,39 @@
 📚 Possuo certificações em Scrum, DevOps e cursos da área de desenvolvimento de software e testes automatizados. 
 
 
-👨🏻‍💻 Habilidades:<br>
-    ✓ Testes de Aceitação, Usabilidade, Funcionais, Exploratórios, Regressivos e Integrados<br>
-    ✓ Testes em Mobile Android e iOS, WEB e API<br>
-    ✓ Automação de testes com Robot Framework<br>
-    ✓ Mapeamento de Cenários de Teste com BDD<br>
-    ✓ Técnicas de teste de Caixa Preta<br>
+🤖 Já fui professor de informática e desenvolvedor Ruby on Rails, mas migrei para a área de testes para trabalhar com a qualidade de sistemas.
 
 
-📬 Contatos:<br>
-• E-mail: marlysonalmeida@gmail.com<br>
-• Telefone: (85) 98624-9480<br>
-• GitHub:  https://github.com/MarlysonAlmeida<br>
+🏦 Atualmente sou Analista de testes a mais de 2 anos com foco em instituições financeiras.
+
+
+
+👨🏻‍💻 Habilidades:
+    ✓ Testes de Aceitação, Usabilidade, Funcionais, Exploratórios, Regressivos e Integrados
+
+
+    ✓ Testes em Mobile Android e iOS, WEB e API
+
+
+    ✓ Automação de testes com Robot Framework e Cypress
+
+
+    ✓ Mapeamento de Cenários de Teste com BDD
+
+
+    ✓ Técnicas de teste de Caixa Preta
+
+
+📬 Contatos:
+• E-mail: marlysonalmeida@gmail.com
+• Telefone: (85) 98624-9480
+• GitHub:  https://github.com/MarlysonAlmeida
 
 
 <div>
   <a href="https://github.com/MarlysonAlmeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlysonAlmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlysonAlmeida&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Marlyson-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-    <img align="center" alt="Marlyson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Marlyson-Golang" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
-    <img align="center" alt="Marlyson-Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
-    <img align="center" alt="Marlyson-Cucumber" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
-    <img align="center" alt="Marlyson-HTML" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-    <img align="center" alt="Marlyson-CSS" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-    <img align="center" alt="Marlyson-PostgreSQL" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
   
   ##
