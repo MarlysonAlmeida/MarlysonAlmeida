@@ -4,24 +4,15 @@
 📚 Possuo certificações em Scrum, DevOps e cursos da área de desenvolvimento de software e testes automatizados. <br>
 
 
-🤖 Já fui professor de informática e desenvolvedor Ruby on Rails, mas migrei para a área de testes para trabalhar com a qualidade de sistemas.<br>
-
-
-🏦 Atualmente sou Analista de testes a mais de 2 anos com foco em instituições financeiras.<br>
-
-
 
 👨🏻‍💻 Habilidades:<br>
-    ✓ Testes de Aceitação, Usabilidade, Funcionais, Exploratórios, Regressivos e Integrados<br>
+    ✓ Testes Manuais, de Aceitação, de Usabilidade, Funcionais, Exploratórios, Regressivos, Progressivos, de Sistemas, de Serviços e Integrados<br>
 
 
-   ✓ Testes em Mobile Android e iOS, WEB e API<br>
+   ✓ Testes em Mobile, WEB e API<br>
 
 
-   ✓ Automação de testes com Robot Framework e Cypress<br>
-
-
-   ✓ Mapeamento de Cenários de Teste com BDD<br>
+   ✓ Mapeamento de Casos e Cenários de Teste com BDD<br>
 
 
    ✓ Técnicas de teste de Caixa Preta<br>
